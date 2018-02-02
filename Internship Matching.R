@@ -502,7 +502,7 @@ matching.plot
 ggsave(matching.plot, filename="matching.plot.png", width = 6, height=4.5, dpi=500)
 
 
-#able to identify perfect matches
+#able to identify perfect matches?
 samples=3000
 sim=500
 nrots=2
